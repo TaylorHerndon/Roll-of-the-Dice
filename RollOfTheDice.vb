@@ -5,7 +5,7 @@ Option Explicit On
 'RCET0265
 'Spring 2021
 'Roll of the Dice
-'
+'https://github.com/TaylorHerndon/Roll-of-the-Dice
 
 
 Module RollOfTheDice
